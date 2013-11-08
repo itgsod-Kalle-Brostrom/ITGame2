@@ -12,5 +12,6 @@ describe 'Warrior' do
     w.weapon.should == 'Hammer'
     w.name.should == 'Inigo'
 
+
   end
 end
