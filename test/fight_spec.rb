@@ -16,10 +16,10 @@ describe 'Starting a new fight' do
   end
 end
 
-  describe 'turns' do
-    it 'should let the warriors pummel each other' do
-      f = Fight.new(SpearWarrior.new(''), SwordWarrior.new(''))
-
-    end
-
-  end
+  #describe 'turns' do
+  #  it 'should let the warriors pummel each other' do
+  #    f = Fight.new(SpearWarrior.new(''), SwordWarrior.new(''))
+  #
+  #  end
+  #
+  #end
